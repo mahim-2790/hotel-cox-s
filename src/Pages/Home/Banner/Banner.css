@@ -1,0 +1,15 @@
+.header-div{
+    background-image: url('../../../images/cover3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
+
+.header-text{
+    color: whitesmoke;
+}
+.header-text h1{
+    font-size: 3.5rem;
+}
